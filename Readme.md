@@ -25,3 +25,4 @@ Any assumptions you made :
 
 API endpoint examples :
 1. Lengkapnya sudah ada di swagger-ui.
+   http://localhost:8080/swagger-ui.html
